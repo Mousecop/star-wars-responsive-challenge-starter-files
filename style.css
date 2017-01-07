@@ -1,6 +1,6 @@
 
 /*just messing with nav here*/
-nav {
+/*nav {
 	width: 100%;
 	background-image: url('images/space.png');
 	height: 100px;
@@ -12,16 +12,21 @@ nav .logo {
 	display: block;
 	position: absolute;
 	margin: auto;
-}
+}*/
 /*end messing with nav*/
 
 .card {
 	border: 1px solid lightgrey;
 	border-radius: 4px;
+	margin-bottom: 20px;
+}
+
+.top .card {
+	margin-top: 70px;
 }
 
 .card img {
-	height: 300px;
+	width: 100%;
 }
 
 
